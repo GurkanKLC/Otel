@@ -1,0 +1,68 @@
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.MainForm.resources
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.csproj.GenerateResource.Cache
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\bin\Debug\Otel.exe
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\bin\Debug\Otel.pdb
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.exe
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.pdb
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.Main.resources
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.odais.resources
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.siparis.resources
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.musteri.resources
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\bin\Debug\Bunifu.Core.dll
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.odabilgiler.resources
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.musterikayit.resources
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.randevu.resources
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.odaislem.resources
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.aktifmusteri.resources
+C:\Users\Gürses\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.csprojResolveAssemblyReference.cache
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\bin\Debug\Otel.exe
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\bin\Debug\Otel.pdb
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.aktifmusteri.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.Main.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.MainForm.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.musteri.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.musterikayit.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.odabilgiler.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.odais.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.odaislem.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.randevu.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.siparis.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.csproj.GenerateResource.Cache
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.exe
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.pdb
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.csprojResolveAssemblyReference.cache
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.yemek.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.yemek_duzenle.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.etkinlik.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.etkinlik_duzenle.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.calisan.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.calisan_duzenle.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.calisan_ekle.resources
+C:\Users\G95\Documents\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.calisan_sil.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\bin\Debug\Otel.exe
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\bin\Debug\Otel.pdb
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.csprojResolveAssemblyReference.cache
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.aktifmusteri.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.calisan.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.calisan_duzenle.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.calisan_ekle.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.calisan_sil.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.etkinlik.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.etkinlik_duzenle.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.Main.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.MainForm.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.musteri.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.musterikayit.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.odabilgiler.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.odais.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.odaislem.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.randevu.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.siparis.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.yemek.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.yemek_duzenle.resources
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.csproj.GenerateResource.Cache
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.exe
+F:\masaüstü yedek\SharpDevelop Projects\Otel\Otel\obj\Debug\Otel.pdb

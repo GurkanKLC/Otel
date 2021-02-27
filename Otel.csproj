@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{BBA699AF-D890-44F6-ABC1-70F47A94E5EC}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Otel</RootNamespace>
+    <AssemblyName>Otel</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3, Version=1.5.3.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9">
+      <HintPath>..\..\..\..\Downloads\Bunifu UI WinForms 1.9.0.1.Oneindir.com\Bunifu UI WinForms 1.9.0.1\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\Downloads\Bunifu_DLL\Bunifu DLL\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aktifmusteri.cs" />
+    <Compile Include="aktifmusteri.Designer.cs">
+      <DependentUpon>aktifmusteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan.cs" />
+    <Compile Include="calisan.Designer.cs">
+      <DependentUpon>calisan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan_duzenle.cs" />
+    <Compile Include="calisan_duzenle.Designer.cs">
+      <DependentUpon>calisan_duzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan_ekle.cs" />
+    <Compile Include="calisan_ekle.Designer.cs">
+      <DependentUpon>calisan_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan_sil.cs" />
+    <Compile Include="calisan_sil.Designer.cs">
+      <DependentUpon>calisan_sil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="etkinlik.cs" />
+    <Compile Include="etkinlik.Designer.cs">
+      <DependentUpon>etkinlik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="etkinlik_duzenle.cs" />
+    <Compile Include="etkinlik_duzenle.Designer.cs">
+      <DependentUpon>etkinlik_duzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs" />
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteri.cs" />
+    <Compile Include="musteri.Designer.cs">
+      <DependentUpon>musteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musterikayit.cs" />
+    <Compile Include="musterikayit.Designer.cs">
+      <DependentUpon>musterikayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="odabilgiler.cs" />
+    <Compile Include="odabilgiler.Designer.cs">
+      <DependentUpon>odabilgiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="odais.cs" />
+    <Compile Include="odais.Designer.cs">
+      <DependentUpon>odais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="odaislem.cs" />
+    <Compile Include="odaislem.Designer.cs">
+      <DependentUpon>odaislem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="randevu.cs" />
+    <Compile Include="randevu.Designer.cs">
+      <DependentUpon>randevu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="siparis.cs" />
+    <Compile Include="siparis.Designer.cs">
+      <DependentUpon>siparis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yemek.cs" />
+    <Compile Include="yemek.Designer.cs">
+      <DependentUpon>yemek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yemek_duzenle.cs" />
+    <Compile Include="yemek_duzenle.Designer.cs">
+      <DependentUpon>yemek_duzenle.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="aktifmusteri.resx">
+      <DependentUpon>aktifmusteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan.resx">
+      <DependentUpon>calisan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan_duzenle.resx">
+      <DependentUpon>calisan_duzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan_ekle.resx">
+      <DependentUpon>calisan_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan_sil.resx">
+      <DependentUpon>calisan_sil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="etkinlik.resx">
+      <DependentUpon>etkinlik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="etkinlik_duzenle.resx">
+      <DependentUpon>etkinlik_duzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteri.resx">
+      <DependentUpon>musteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musterikayit.resx">
+      <DependentUpon>musterikayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odabilgiler.resx">
+      <DependentUpon>odabilgiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odais.resx">
+      <DependentUpon>odais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odaislem.resx">
+      <DependentUpon>odaislem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="randevu.resx">
+      <DependentUpon>randevu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siparis.resx">
+      <DependentUpon>siparis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yemek.resx">
+      <DependentUpon>yemek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yemek_duzenle.resx">
+      <DependentUpon>yemek_duzenle.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
