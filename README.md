@@ -14,4 +14,4 @@ Bir otel otomasyon sistemi için gerekli olabilecek bütün fonksiyonlar mevcutt
 
 ## Versiyon
 
-1.0
+1.0.0
